@@ -7,3 +7,4 @@ hi #higit
 
 develop #4
 안녕?4 #5
+merge #6
